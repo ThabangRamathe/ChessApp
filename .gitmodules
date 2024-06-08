@@ -1,0 +1,3 @@
+[submodule "ChessBackend"]
+	path = ChessBackend
+	url = https://github.com/ThabangRamathe/ChessBackend.git
